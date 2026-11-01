@@ -17,7 +17,7 @@ I'll discontinue my work on this side project and try to upstream changes to the
 ## Build instruction
 * Clone this repository [including the "DeOldify" submodule](https://blog.github.com/2016-02-01-working-with-submodules/):
 
-  `git clone --recursive git@github.com:Ichaelus/video-colorization.git`
+  `git clone --recursive git@github.com:panetun/video-colorization.git`
 
 * Follow the [installation instructions of DeOldify](https://github.com/jantic/DeOldify/#easy-install). You should at least have a **conda** environment set up to run the colorization stuff and downloaded the pretrained weights.
 
